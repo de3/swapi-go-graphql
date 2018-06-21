@@ -1,0 +1,7 @@
+# A Star Wars film.
+type Film {
+  id: ID!
+  episode: Int!
+  directorName: String!
+  title: String!
+}
