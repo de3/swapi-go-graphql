@@ -3,7 +3,7 @@ package resolver
 import (
 	"context"
 
-	"github.com/de3/gg/swapi"
+	"github.com/de3/swapi-go-graphql/swapi"
 )
 
 type QueryResolver struct {

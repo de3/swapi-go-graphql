@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/de3/gg/resolver"
-	"github.com/de3/gg/schema"
-	"github.com/de3/gg/swapi"
+	"github.com/de3/swapi-go-graphql/resolver"
+	"github.com/de3/swapi-go-graphql/schema"
+	"github.com/de3/swapi-go-graphql/swapi"
 	graphql "github.com/graph-gophers/graphql-go"
 	"github.com/graph-gophers/graphql-go/relay"
 )
